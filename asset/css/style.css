@@ -1,0 +1,37 @@
+.container {
+    margin-top: 30px;
+    display: flex;
+}
+
+.card-box {
+    text-align: center;
+    border: 1px solid green;
+    width: 15%;
+    padding: 15px 10px;
+    background-color: #222D32;
+    border-radius: 5px;
+}
+
+.card img {
+    display: block;
+    width: 100%;
+}
+
+.card h1 {
+    font-size: 1.5rem;
+    color: white;
+    margin: 10px 0;
+}
+
+.card button {
+    background-color: #3C8DBC;
+    color: white;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+}
+
+.card button:hover {
+    background-color: #3b779a;
+
+}
